@@ -57,6 +57,6 @@ The system integrates live weather APIs, embeddings, vector retrieval, and an LL
 ## 💻 How to Run  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/weather-rag-chatbot.git
+  gh repo clone chaitanMLII49/Weather-Prediction-Chatbot-using-RAG-
    cd weather-rag-chatbot
 2. Run the code
